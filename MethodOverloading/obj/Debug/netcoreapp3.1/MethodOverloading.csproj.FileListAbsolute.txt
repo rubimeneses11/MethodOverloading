@@ -1,0 +1,14 @@
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.deps.json
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.runtimeconfig.json
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.runtimeconfig.dev.json
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.dll
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.pdb
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.csproj.AssemblyReference.cache
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.AssemblyInfoInputs.cache
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.AssemblyInfo.cs
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.dll
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.pdb
+/Users/luisangelmeneses/Desktop/repos/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.genruntimeconfig.cache
